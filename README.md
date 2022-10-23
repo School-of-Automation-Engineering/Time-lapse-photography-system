@@ -5,10 +5,10 @@
 
 ***
 **自动化延时摄影构想**
-<img src="https://school-of-automation-engineering.github.io/Time-lapse-photography-system/IMG/自动化延时摄影构想.png">
+<img src="https://School-of-Website-Engineering.github.io/Time-lapse-photography-system/IMG/自动化延时摄影构想.png">
 
 **自动化延时摄影构思**
-<img src="https://school-of-automation-engineering.github.io/Time-lapse-photography-system/IMG/自动化延时摄影构思.png">
+<img src="https://School-of-Website-Engineering.github.io/Time-lapse-photography-system/IMG/自动化延时摄影构思.png">
 
 
 *** 
